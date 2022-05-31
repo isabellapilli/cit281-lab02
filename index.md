@@ -30,6 +30,6 @@ In this lab I was introduced to git software. I created a new JavaScript Node.js
 
 ### Screenshots from Lab 1!
 
-[ss1](lab-02-node.js)
-[ss2](ignored.txt)
-[ss3](lab-02-files.txt)
+[ss1](lab02-1.png)
+[ss2](lab02-2.png)
+[ss3](lab02-3.png)
