@@ -28,7 +28,7 @@ Use CLI commands for git commands
 ### What I Learned:
 In this lab I was introduced to git software. I created a new JavaScript Node.js file and used git to manage the file. Git repos fall into three different categories: untracked, tracked, and ignored and I learned how to manage them with different git commands such as *git add*, *git commit*, *git diff*, *git status*, *git clone*, *git branch*, and even more. 
 
-### Screenshots from Lab 1!
+### Screenshots from Lab 2!
 
 [ss1](lab02-1.png)
 [ss2](lab02-2.png)
