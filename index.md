@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/isabellapilli/cit281-lab02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## LAB 2
 
 ```markdown
-Syntax highlighted code block
+Lab Goals and Outcomes:
 
-# Header 1
-## Header 2
-### Header 3
+Use CLI commands for directory and file manipulation
+Use CLI commands for git commands
 
-- Bulleted
-- List
+1. Setup git user credentials
+2. New git repository
+3. Initial JavaScript file
+4. Add file to git
+5. Ignoring files
+6. Using diff to see changes
+7. Using wildcards
+8. Cloning cloud repos locally
+9. Branch
+10. Repo files
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Technologies Used:
+- Chrome
+- VS Code
+- Git
+- Terminal
 
-### Jekyll Themes
+### What I Learned:
+In this lab I was introduced to git software. I created a new JavaScript Node.js file and used git to manage the file. Git repos fall into three different categories: untracked, tracked, and ignored and I learned how to manage them with different git commands such as git add, git commit, git diff, git status, git clone, git branch, and even more. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/cit281-lab02/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Screenshots from Lab 1!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[ss1](lab-01-node.js)
+[ss2](lab-01-node.png)
+[ss3](lab-01-shortcuts.txt)
