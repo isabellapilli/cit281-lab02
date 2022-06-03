@@ -33,3 +33,4 @@ In this lab I was introduced to git software. I created a new JavaScript Node.js
 [ss1](lab02-1.png)
 [ss2](lab02-2.png)
 [ss3](lab02-3.png)
+[ss4](hangman.png)
